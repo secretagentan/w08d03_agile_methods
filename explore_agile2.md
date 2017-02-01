@@ -9,6 +9,7 @@ Each team receives two items: (1) a handout with a menu of features and their pr
 ### Features You can buy
 
 | Feature | Description | Price |
+| :-------------: |:-------------:   | :-------------:     |
 | Activity Feed | The Activity Feed shows players what has been taking place in the gamification system overall. This shows the user that they are not alone | $3 |
 | Avatars | Avatars are unique representations for a player. Avatars usually represent a customizable picture to represent the player in many visual ways| $4 |
 | Instances |Instances are created for players to have a unique experience that is outside the normal experience. When a player creates a special unique page| $2 |
