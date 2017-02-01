@@ -1,5 +1,10 @@
 # Origami(Build something)- Teamwork
 Lets form groups of 4
+
+WHAT IS ORIGAMI :izakaya_lantern:
+
+Origami is the Japanese word for paper folding. ORI means to fold and KAMI means paper. Together, they form the word, "origami." It is an art form that has been handed down from parent to child through many generations. Origami involves the creation of paper forms usually entirely by folding. Animals, birds, fish, geometric shapes, puppets, toys and masks are among the models that even very young children can learn to make in just one sitting
+
 **Build**
 - Bat
 - Boat
