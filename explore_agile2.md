@@ -1,4 +1,4 @@
-Buy a Feature – Teaches feature prioritization
+# Buy a Feature – Teaches feature prioritization
 Lets form groups of 4
 Each team receives two items: (1) a handout with a menu of features and their prices (2) a sum of play money. The play money contains a variety of denominations. The sum total of each groups money is less than the total of all feature prices.
 
