@@ -1,4 +1,4 @@
-Human Knot-Teaches self-organization
+# Human Knot-Teaches self-organization
 
 **Lets get into groups of 6**
 
